@@ -19,8 +19,6 @@ Check out some of our Projects:
 
 ### 📫 Contact Us
 Website: [Kyptronix LLP](https://kyptronix.us)
-Twitter: [Your Twitter handle]
-LinkedIn: [Your LinkedIn profile URL]
 Email: [Email](mailto:kyptronix@gmail.com)
 
 ### 👥 Follow Us
